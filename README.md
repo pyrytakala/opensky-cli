@@ -2,7 +2,13 @@
 
 Unofficial CLI for the OpenSky Network API - live aircraft tracking data. Made with [api2cli.dev](https://api2cli.dev).
 
-> **Note:** This is a community-maintained project and is not officially affiliated with or endorsed by OpenSky Network.
+> **Note:** This is a community-maintained project and is not officially affiliated with or endorsed by OpenSky Network. This tool is for non-commercial use only. Commercial use requires written permission from OpenSky Network.
+
+## Attribution
+
+This tool uses data from [The OpenSky Network](https://opensky-network.org). If you use this data in a publication, please cite:
+
+> Matthias Schäfer, Martin Strohmeier, Vincent Lenders, Ivan Martinovic and Matthias Wilhelm. "Bringing Up OpenSky: A Large-scale ADS-B Sensor Network for Research." In *Proceedings of the 13th IEEE/ACM International Symposium on Information Processing in Sensor Networks (IPSN)*, pages 83-94, April 2014.
 
 ## Install
 

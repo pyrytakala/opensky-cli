@@ -1,6 +1,8 @@
 # opensky-cli
 
-CLI for the OpenSky Network API - live aircraft tracking data. Made with [api2cli.dev](https://api2cli.dev).
+Unofficial CLI for the OpenSky Network API - live aircraft tracking data. Made with [api2cli.dev](https://api2cli.dev).
+
+> **Note:** This is a community-maintained project and is not officially affiliated with or endorsed by OpenSky Network.
 
 ## Install
 
